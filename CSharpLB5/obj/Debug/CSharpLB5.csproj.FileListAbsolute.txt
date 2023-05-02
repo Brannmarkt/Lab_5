@@ -1,0 +1,16 @@
+E:\Projects\CSharpLB5\CSharpLB5\bin\Debug\CSharpLB5.exe.config
+E:\Projects\CSharpLB5\CSharpLB5\bin\Debug\CSharpLB5.exe
+E:\Projects\CSharpLB5\CSharpLB5\bin\Debug\CSharpLB5.pdb
+E:\Projects\CSharpLB5\CSharpLB5\obj\Debug\CSharpLB5.csproj.AssemblyReference.cache
+E:\Projects\CSharpLB5\CSharpLB5\obj\Debug\CSharpLB5.csproj.SuggestedBindingRedirects.cache
+E:\Projects\CSharpLB5\CSharpLB5\obj\Debug\Views\MainWindow.g.cs
+E:\Projects\CSharpLB5\CSharpLB5\obj\Debug\App.g.cs
+E:\Projects\CSharpLB5\CSharpLB5\obj\Debug\CSharpLB5_MarkupCompile.cache
+E:\Projects\CSharpLB5\CSharpLB5\obj\Debug\CSharpLB5_MarkupCompile.lref
+E:\Projects\CSharpLB5\CSharpLB5\obj\Debug\Views\MainWindow.baml
+E:\Projects\CSharpLB5\CSharpLB5\obj\Debug\CSharpLB5.g.resources
+E:\Projects\CSharpLB5\CSharpLB5\obj\Debug\CSharpLB5.Properties.Resources.resources
+E:\Projects\CSharpLB5\CSharpLB5\obj\Debug\CSharpLB5.csproj.GenerateResource.cache
+E:\Projects\CSharpLB5\CSharpLB5\obj\Debug\CSharpLB5.csproj.CoreCompileInputs.cache
+E:\Projects\CSharpLB5\CSharpLB5\obj\Debug\CSharpLB5.exe
+E:\Projects\CSharpLB5\CSharpLB5\obj\Debug\CSharpLB5.pdb

@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<log>
+  <entry
+    timestamp="02.05.2023 22:33:40">Joe bought 1 Carrot for 9</entry>
+  <entry
+    timestamp="02.05.2023 22:33:45">Joe bought 2 Apple for 34</entry>
+  <entry
+    timestamp="02.05.2023 22:33:50">Ann bought 2 Banana for 46</entry>
+  <entry
+    timestamp="02.05.2023 22:33:51">Shop bought Potata for 5</entry>
+  <entry
+    timestamp="02.05.2023 22:33:52">Shop bought Onion for 11</entry>
+  <entry
+    timestamp="02.05.2023 22:33:53">Shop bought Orange for 21</entry>
+  <entry
+    timestamp="02.05.2023 22:33:54">Shop bought Tomato for 24</entry>
+  <entry
+    timestamp="02.05.2023 22:33:55">Shop bought Onion for 11</entry>
+  <entry
+    timestamp="02.05.2023 22:33:55">Shop bought Potata for 5</entry>
+  <entry
+    timestamp="02.05.2023 22:33:56">Shop bought Carrot for 7</entry>
+  <entry
+    timestamp="02.05.2023 22:33:56">Shop bought Carrot for 7</entry>
+  <entry
+    timestamp="02.05.2023 22:33:57">Shop bought Apple for 15</entry>
+  <entry
+    timestamp="02.05.2023 22:33:57">Shop bought Apple for 15</entry>
+  <entry
+    timestamp="02.05.2023 22:33:57">Shop bought Apple for 15</entry>
+  <entry
+    timestamp="02.05.2023 22:33:57">Shop bought Potata for 5</entry>
+  <entry
+    timestamp="02.05.2023 22:33:57">Shop bought Potata for 5</entry>
+  <entry
+    timestamp="02.05.2023 22:33:57">Shop bought Potata for 5</entry>
+  <entry
+    timestamp="02.05.2023 22:33:57">Shop bought Carrot for 7</entry>
+  <entry
+    timestamp="02.05.2023 22:33:58">Shop bought Tomato for 24</entry>
+  <entry
+    timestamp="02.05.2023 22:33:59">Shop bought Potata for 5</entry>
+  <entry
+    timestamp="02.05.2023 22:34:01">Ann bought 3 Onion for 39</entry>
+  <entry
+    timestamp="02.05.2023 22:34:01">Kate bought 2 Carrot for 18</entry>
+  <entry
+    timestamp="02.05.2023 22:34:01">Ann bought 3 Tomato for 78</entry>
+  <entry
+    timestamp="02.05.2023 22:34:01">Kate bought 2 Onion for 26</entry>
+  <entry
+    timestamp="02.05.2023 22:34:01">Tom bought 1 Carrot for 9</entry>
+  <entry
+    timestamp="02.05.2023 22:34:01">Joe bought 1 Potata for 6</entry>
+  <entry
+    timestamp="02.05.2023 22:34:02">Joe bought 1 Tomato for 26</entry>
+  <entry
+    timestamp="02.05.2023 22:34:02">Kate bought 2 Potata for 12</entry>
+  <entry
+    timestamp="02.05.2023 22:34:02">Kate bought 1 Orange for 23</entry>
+  <entry
+    timestamp="02.05.2023 22:34:02">Ann bought 3 Carrot for 27</entry>
+  <entry
+    timestamp="02.05.2023 22:34:02">Tom bought 1 Onion for 13</entry>
+  <entry
+    timestamp="02.05.2023 22:34:02">Joe bought 3 Banana for 69</entry>
+  <entry
+    timestamp="02.05.2023 22:34:03">Tom bought 1 Potata for 6</entry>
+  <entry
+    timestamp="02.05.2023 22:34:04">Shop bought Orange for 21</entry>
+  <entry
+    timestamp="02.05.2023 22:34:05">Shop bought Apple for 15</entry>
+  <entry
+    timestamp="02.05.2023 22:34:05">Shop bought Potata for 5</entry>
+  <entry
+    timestamp="02.05.2023 22:34:05">Shop bought Orange for 21</entry>
+  <entry
+    timestamp="02.05.2023 22:34:05">Shop bought Tomato for 24</entry>
+  <entry
+    timestamp="02.05.2023 22:34:05">Shop bought Carrot for 7</entry>
+  <entry
+    timestamp="02.05.2023 22:34:05">Shop bought Carrot for 7</entry>
+  <entry
+    timestamp="02.05.2023 22:34:06">Shop bought Potata for 5</entry>
+  <entry
+    timestamp="02.05.2023 22:34:06">Shop bought Onion for 11</entry>
+  <entry
+    timestamp="02.05.2023 22:34:06">Shop bought Apple for 15</entry>
+  <entry
+    timestamp="02.05.2023 22:34:06">Shop bought Orange for 21</entry>
+  <entry
+    timestamp="02.05.2023 22:34:06">Shop bought Onion for 11</entry>
+  <entry
+    timestamp="02.05.2023 22:34:06">Shop bought Potata for 5</entry>
+  <entry
+    timestamp="02.05.2023 22:34:06">Shop bought Potata for 5</entry>
+  <entry
+    timestamp="02.05.2023 22:34:06">Shop bought Tomato for 24</entry>
+  <entry
+    timestamp="02.05.2023 22:34:06">Shop bought Banana for 20</entry>
+  <entry
+    timestamp="02.05.2023 22:34:06">Shop bought Apple for 15</entry>
+  <entry
+    timestamp="02.05.2023 22:34:07">Shop bought Onion for 11</entry>
+  <entry
+    timestamp="02.05.2023 22:34:07">Shop bought Orange for 21</entry>
+  <entry
+    timestamp="02.05.2023 22:34:07">Shop bought Orange for 21</entry>
+  <entry
+    timestamp="02.05.2023 22:34:07">Shop bought Potata for 5</entry>
+  <entry
+    timestamp="02.05.2023 22:34:07">Shop bought Carrot for 7</entry>
+  <entry
+    timestamp="02.05.2023 22:34:07">Shop bought Onion for 11</entry>
+  <entry
+    timestamp="02.05.2023 22:34:07">Shop bought Banana for 20</entry>
+  <entry
+    timestamp="02.05.2023 22:34:07">Shop bought Potata for 5</entry>
+  <entry
+    timestamp="02.05.2023 22:34:07">Shop bought Apple for 15</entry>
+</log>
